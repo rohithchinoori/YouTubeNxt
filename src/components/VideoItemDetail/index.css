@@ -1,0 +1,40 @@
+.failure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list {
+  width: 60%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.icons {
+  margin: 5px;
+}
+.active-icon {
+  background-color: #2563eb;
+  margin: 5px;
+}
+.hr {
+  width: 100%;
+}
+.active {
+  color: #2563eb;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.inactive {
+  border-width: 0px;
+  cursor: pointer;
+  background-color: transparent;
+}
+.buts {
+  cursor: pointer;
+  border-width: 0px;
+  background-color: transparent;
+  margin: 5px;
+}

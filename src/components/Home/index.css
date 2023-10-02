@@ -1,0 +1,26 @@
+.icon {
+  color: #e2e8f0;
+}
+.prem-but {
+  background-color: transparent;
+  border-width: 1px;
+  padding: 5px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.banner-text {
+  padding: 10px;
+}
+.failure {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-vid {
+  height: 200px;
+  width: 200px;
+}
+.active {
+  color: #ff0000;
+}
